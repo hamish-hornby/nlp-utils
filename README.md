@@ -1,2 +1,2 @@
 # nlp-utils
-Some preproccessing and label mapping tools useful for NLP tasks.
+Some publicly available preproccessing and label mapping tools useful for NLP tasks.
